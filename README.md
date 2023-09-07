@@ -43,7 +43,7 @@
 </div>
 
 ###
-
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=szff5fzxcbgmn804ldaf242gq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=szff5fzxcbgmn804ldaf242gq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)"  />
 
 
 ###
