@@ -1,6 +1,6 @@
 <h1 align="center">Front-End Developer</h1>
 
-<h2 align="left">
+<h2 align="left" color="red">
  <b>I'm Ravi Gahire</b> a dedicated Front-End Developer with a keen eye for detail and a passion for creating exceptional user interfaces. 
   <b>My journey</b> in the realm of web development revolves around transforming ideas into immersive digital experiences.
 
