@@ -1,5 +1,7 @@
-<h2 align="left">Hi, I'm Ravi Gahire Front-End Developer Based in [Pune]  Passionate about crafting user-friendly web experiences Currently working on: [Dentist website]
-🌱 Learning:  javascript and all frameworks Let's collaborate on web development projects!
+<h2 align="left">
+ <b>I'm Ravi Gahire</b> a dedicated Front-End Developer with a keen eye for detail and a passion for creating exceptional user interfaces. 
+  <b>My journey</b> in the realm of web development revolves around transforming ideas into immersive digital experiences.
+
 </h2>
 
 ###
