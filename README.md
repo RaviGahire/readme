@@ -14,7 +14,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppin&weight=700&size=24&pause=1000&color=E9EE28&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Hello%2C+I'm+Ravi+Gahire;a+dedicated+Front-End+Developer+with+a+keen+eye+for+detail+and+a+passion+for+creating+exceptional+user+interfaces;My+journey;+in+the+realm+of+web+development+revolves+around+transforming+ideas+into+immersive+digital+experiences.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppin&weight=700&size=24&pause=1000&color=E9EE28&center=true&vCenter=true&repeat=false&random=false&width=900&lines=Hello%2C+I'm+Ravi+Gahire;a+dedicated+Front-End+Developer+with+a+keen+eye+for+detail+and+a+passion+for+creating+exceptional+user+interfaces;My+journey;+in+the+realm+of+web+development+revolves+around+transforming+ideas+into+immersive+digital+experiences.)](https://git.io/typing-svg)
 
 ###
 
