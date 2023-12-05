@@ -1,13 +1,12 @@
 <h1 align="center">Front-End Developer</h1>
 
 <h4 align="left" color="red">
- <b>I'm Ravi Gahire</b> a dedicated Front-End Developer with a keen eye for detail and a passion for creating exceptional user interfaces. 
+ <b>Hello, I'm Ravi Gahire</b> a dedicated Front-End Developer with a keen eye for detail and a passion for creating exceptional user interfaces. 
   <b>My journey</b> in the realm of web development revolves around transforming ideas into immersive digital experiences.
 
 </h4>
 
 ###
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RaviGahire&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaviGahire&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -15,7 +14,7 @@
 
 ###
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppin&weight=700&size=24&pause=1000&color=E9EE28&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Hello%2C+I'm+Ravi+Gahire;a+dedicated+Front-End+Developer+with+a+keen+eye+for+detail+and+a+passion+for+creating+exceptional+user+interfaces;My+journey;+in+the+realm+of+web+development+revolves+around+transforming+ideas+into+immersive+digital+experiences.)](https://git.io/typing-svg)
 
 ###
 
